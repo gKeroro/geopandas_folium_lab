@@ -13,3 +13,5 @@
 
 詳情歡迎參考簡報
 https://drive.google.com/file/d/1J4Vkdy1I_KL2QqGs0QN9u2FkaYEe-v0P/view?usp=sharing
+
+https://nbviewer.jupyter.org/github/gKeroro/geopandas_folium_lab/blob/main/week12_lab.ipynb
